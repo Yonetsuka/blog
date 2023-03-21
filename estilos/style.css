@@ -1,0 +1,21 @@
+html
+{
+   background-color: mediumslateblue;
+}
+body
+{
+    background-color: aquamarine;
+}
+nav
+{
+    display: flex;
+}
+nav ul li
+{
+    list-style-type: none;
+    padding-right: 14px;
+}
+article
+{
+    text-align: center;
+}
